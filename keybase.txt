@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kadenmckeen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kadenmc.github.io
+  * I am kadenmckeen (https://keybase.io/kadenmckeen) on keybase.
+  * I have a public key ASCUYFnjkhIBFotS6vHvuOHBn3VbmiKKFog1kXdrke7HMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120946059e3921201168b52eaf1efb8e1c19f755b9a228a16883591776b91eec7330a",
+      "host": "keybase.io",
+      "kid": "0120946059e3921201168b52eaf1efb8e1c19f755b9a228a16883591776b91eec7330a",
+      "uid": "5a399477dd381c2c16b3034645184f19",
+      "username": "kadenmckeen"
+    },
+    "merkle_root": {
+      "ctime": 1619451415,
+      "hash": "cbc7760099cbe7aa4e8dd6054e7e9eec1d068ef4621bc12246468b2a18a904d64a9326c138e084931d078ebdba8d0238165b393a603ca87a139241043dc0c2a7",
+      "hash_meta": "7ce848e4ecd942c53e8af595289124db0a10a979f86dd0aedeccf5fd006ba280",
+      "seqno": 19748305
+    },
+    "service": {
+      "entropy": "whh1TNpH6FEWP4lnih4GXuIw",
+      "hostname": "kadenmc.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1619451437,
+  "expire_in": 504576000,
+  "prev": "af78bed73a8d3228506d4d2256e2e9ef7b35d031ee6fb23509f34d2ed75ac068",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglGBZ45ISARaLUurx77jhwZ91W5oiihaINZF3a5HuxzMKp3BheWxvYWTESpcCCMQgr3i+1zqNMihQbU0iVuLp73s10DHub7I1CfNNLtdawGjEIDWaXlcJ1gG8A55ONgzgji9aQGFRFnYhHxReuyHdgxGYAgHCo3NpZ8RAe63avA1/4X7m0M9Xm7iLLOCbPNc60O8HInc1lhkx6qTwInpSP1OE3e3xHaeilEdMHr5bX94rgkZLrZiiwvzfDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE1xG/g5O91M+CGxlR3K2us4usQSlEc3cu80D161f0ifo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kadenmckeen
+
+==================================================================
