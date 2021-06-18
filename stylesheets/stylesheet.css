@@ -218,6 +218,9 @@ a {
   background-color: #eff0f1;
   border: 0; }
 
+p.lisub {
+  font-size: 0.9rem; }
+
 @media screen and (min-width: 64em) {
   .main-content {
     max-width: 64rem;
